@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<spielerListe>
+  <spieler>
+    <index>30</index>
+    <name>Luca Unbehaun</name>
+    <full_name></full_name>
+    <age>22</age>
+    <height>1.85</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Bochum</place_of_birth>
+    <price>1.0</price>
+    <max_price>1.5</max_price>
+    <position>Goalkeeper</position>
+    <shirt_nr>38</shirt_nr>
+    <foot>right</foot>
+    <club>Bor. Dortmund</club>
+    <contract_expires>2023-06-30</contract_expires>
+    <joined_club>2019-07-01</joined_club>
+    <player_agent>SWSports</player_agent>
+    <outfitter/>
+    <vorname_spieler>Luca</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>70</index>
+    <name>David Raum</name>
+    <full_name></full_name>
+    <age>25</age>
+    <height>1.8</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Nürnberg</place_of_birth>
+    <price>20.0</price>
+    <max_price>26.0</max_price>
+    <position>Defender - Left-Back</position>
+    <shirt_nr>22</shirt_nr>
+    <foot>left</foot>
+    <club>RB Leipzig</club>
+    <contract_expires>2027-06-30</contract_expires>
+    <joined_club>2022-07-31</joined_club>
+    <player_agent>ROOF</player_agent>
+    <outfitter/>
+    <vorname_spieler>David</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>153</index>
+    <name>Luca Netz</name>
+    <full_name></full_name>
+    <age>19</age>
+    <height>1.84</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Berlin</place_of_birth>
+    <price>6.5</price>
+    <max_price>6.5</max_price>
+    <position>Defender - Left-Back</position>
+    <shirt_nr>20</shirt_nr>
+    <foot>left</foot>
+    <club>Bor. M'gladbach</club>
+    <contract_expires>2026-06-30</contract_expires>
+    <joined_club>2021-08-06</joined_club>
+    <player_agent>11WINS</player_agent>
+    <outfitter/>
+    <vorname_spieler>Luca</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>191</index>
+    <name>Luca Waldschmidt</name>
+    <full_name>Gian-Luca Waldschmidt</full_name>
+    <age>26</age>
+    <height>1.81</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Siegen</place_of_birth>
+    <price>3.0</price>
+    <max_price>20.0</max_price>
+    <position>Attack - Second Striker</position>
+    <shirt_nr>7</shirt_nr>
+    <foot>left</foot>
+    <club>VfL Wolfsburg</club>
+    <contract_expires>2025-06-30</contract_expires>
+    <joined_club>2021-08-22</joined_club>
+    <player_agent>Sports360 GmbH</player_agent>
+    <outfitter/>
+    <vorname_spieler>Luca</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>215</index>
+    <name>Noah Weißhaupt</name>
+    <full_name>Noah Raphael Weißhaupt</full_name>
+    <age>21</age>
+    <height>1.81</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Rostock</place_of_birth>
+    <price>2.5</price>
+    <max_price>2.5</max_price>
+    <position>Attack - Left Winger</position>
+    <shirt_nr>33</shirt_nr>
+    <foot>right</foot>
+    <club>SC Freiburg</club>
+    <contract_expires></contract_expires>
+    <joined_club>2021-07-01</joined_club>
+    <player_agent>Unique Sports Group</player_agent>
+    <outfitter>Puma</outfitter>
+    <vorname_spieler>Noah</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>224</index>
+    <name>Luca Philipp</name>
+    <full_name></full_name>
+    <age>22</age>
+    <height>1.92</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Stuttgart</place_of_birth>
+    <price>0.3</price>
+    <max_price>0.3</max_price>
+    <position>Goalkeeper</position>
+    <shirt_nr>37</shirt_nr>
+    <foot></foot>
+    <club>TSG Hoffenheim</club>
+    <contract_expires>2024-06-30</contract_expires>
+    <joined_club>2020-07-31</joined_club>
+    <player_agent>Relatives</player_agent>
+    <outfitter/>
+    <vorname_spieler>Luca</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>328</index>
+    <name>Lilian Egloff</name>
+    <full_name></full_name>
+    <age>20</age>
+    <height>1.82</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Heilbronn</place_of_birth>
+    <price>1.5</price>
+    <max_price>1.5</max_price>
+    <position>midfield - Attacking Midfield</position>
+    <shirt_nr>25</shirt_nr>
+    <foot>right</foot>
+    <club>VfB Stuttgart</club>
+    <contract_expires>2024-06-30</contract_expires>
+    <joined_club>2020-07-01</joined_club>
+    <player_agent>VIDA 11</player_agent>
+    <outfitter/>
+    <vorname_spieler>Lilian</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>338</index>
+    <name>Luca Pfeiffer</name>
+    <full_name></full_name>
+    <age>26</age>
+    <height>1.96</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Bad Mergentheim</place_of_birth>
+    <price>2.0</price>
+    <max_price>2.8</max_price>
+    <position>Attack - Centre-Forward</position>
+    <shirt_nr>20</shirt_nr>
+    <foot>right</foot>
+    <club>VfB Stuttgart</club>
+    <contract_expires>2026-06-30</contract_expires>
+    <joined_club>2022-08-02</joined_club>
+    <player_agent>Haspel ...</player_agent>
+    <outfitter/>
+    <vorname_spieler>Luca</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>373</index>
+    <name>Luca Kilian</name>
+    <full_name>Luca Jannis Kilian</full_name>
+    <age>23</age>
+    <height>1.92</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Witten</place_of_birth>
+    <price>4.5</price>
+    <max_price>4.5</max_price>
+    <position>Defender - Centre-Back</position>
+    <shirt_nr>15</shirt_nr>
+    <foot>right</foot>
+    <club>1.FC Köln</club>
+    <contract_expires>2025-06-30</contract_expires>
+    <joined_club>2022-07-01</joined_club>
+    <player_agent>LK Management</player_agent>
+    <outfitter/>
+    <vorname_spieler>Luca</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>432</index>
+    <name>Mio Backhaus</name>
+    <full_name></full_name>
+    <age>19</age>
+    <height>1.94</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Mönchengladbach</place_of_birth>
+    <price>0.3</price>
+    <max_price>0.3</max_price>
+    <position>Goalkeeper</position>
+    <shirt_nr>1</shirt_nr>
+    <foot>right</foot>
+    <club>W. Bremen U19</club>
+    <contract_expires></contract_expires>
+    <joined_club>2021-07-01</joined_club>
+    <player_agent>feel soccer GmbH</player_agent>
+    <outfitter/>
+    <vorname_spieler>Mio</vorname_spieler>
+  </spieler>
+  <spieler>
+    <index>434</index>
+    <name>Louis Lord</name>
+    <full_name></full_name>
+    <age>19</age>
+    <height>1.9</height>
+    <nationality>Germany</nationality>
+    <place_of_birth>Vechta</place_of_birth>
+    <price>0.15</price>
+    <max_price>0.15</max_price>
+    <position>Goalkeeper</position>
+    <shirt_nr>1</shirt_nr>
+    <foot></foot>
+    <club>W. Bremen II</club>
+    <contract_expires></contract_expires>
+    <joined_club>2021-07-01</joined_club>
+    <player_agent>CAA Stellar</player_agent>
+    <outfitter/>
+    <vorname_spieler>Louis</vorname_spieler>
+  </spieler>
+</spielerListe>

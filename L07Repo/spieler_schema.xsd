@@ -1,0 +1,37 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definition des Root-Elements -->
+    <xs:element name="spielerListe">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="spieler" type="SpielerType" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Definition des komplexen Typs für einen Spieler -->
+    <xs:complexType name="SpielerType">
+        <xs:sequence>
+            <xs:element name="index" type="xs:string"/> <!-- Platzhalter für leere Spalte -->
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="full_name" type="xs:string"/>
+            <xs:element name="age" type="xs:integer"/>
+            <xs:element name="height" type="xs:decimal"/>
+            <xs:element name="nationality" type="xs:string"/>
+            <xs:element name="place_of_birth" type="xs:string"/>
+            <xs:element name="price" type="xs:decimal"/>
+            <xs:element name="max_price" type="xs:decimal"/>
+            <xs:element name="position" type="xs:string"/>
+            <xs:element name="shirt_nr" type="xs:integer"/>
+            <xs:element name="foot" type="xs:string"/>
+            <xs:element name="club" type="xs:string"/>
+            <xs:element name="contract_expires" type="xs:string" minOccurs="0"/>
+            <xs:element name="joined_club" type="xs:date"/>
+            <xs:element name="player_agent" type="xs:string" minOccurs="0"/>
+            <xs:element name="outfitter" type="xs:string" minOccurs="0"/>
+            <xs:element name="vorname_spieler" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>
+
